@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stuffyUdaya
+- 👋 Hi, I’m Uday
 - 👀 I’m interested in JS development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working ...
 - 💞️ I’m looking to collaborate on Opensource projects
 - 📫 How to reach me : available at mailuday805@gmail.com
 
